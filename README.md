@@ -1,4 +1,9 @@
 # Creditcard_fraud_detection
+
+# Data set of the project is uploaded here 
+https://drive.google.com/file/d/1Fdx_tfzv24ZlRCRlTq3i5d9nkf_vJz_F/view?usp=sharing
+
+
 Fraud Detection on Credit Card Transactions
 Overview
 This project aims to detect fraudulent transactions in credit card data using machine learning techniques. The dataset used contains information about credit card transactions, focusing on distinguishing between legitimate and fraudulent activities.
