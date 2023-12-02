@@ -1,7 +1,9 @@
 # Creditcard_fraud_detection
 
-# Data set of the project is uploaded here 
-https://drive.google.com/file/d/1Fdx_tfzv24ZlRCRlTq3i5d9nkf_vJz_F/view?usp=sharing
+## Dataset
+You can access the dataset used in this project from the following link:
+[creditcard](https://drive.google.com/file/d/1Fdx_tfzv24ZlRCRlTq3i5d9nkf_vJz_F/view?usp=sharing)
+Please download the dataset and place it in the appropriate directory before running the code.
 
 
 Fraud Detection on Credit Card Transactions
