@@ -3,7 +3,7 @@
 ## Dataset
 You can access the dataset used in this project from the following link:
 
-[creditcard]([insert_shared_link_here](https://drive.google.com/file/d/1Fdx_tfzv24ZlRCRlTq3i5d9nkf_vJz_F/view?usp=sharing))
+[creditcard]([https://drive.google.com/file/d/1Fdx_tfzv24ZlRCRlTq3i5d9nkf_vJz_F/view?usp=sharing]
 
 Please download the dataset and place it in the appropriate directory before running the code.
 
